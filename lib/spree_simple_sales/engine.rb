@@ -18,3 +18,4 @@ module SpreeSimpleSales
     config.to_prepare(&method(:activate).to_proc)
   end
 end
+# From NEW
