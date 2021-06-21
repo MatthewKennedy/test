@@ -1,4 +1,5 @@
 # comment 1
+# New
 require 'spree_core'
 require 'spree_extension'
 require 'spree_simple_sales/engine'
