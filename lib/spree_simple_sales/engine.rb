@@ -19,4 +19,3 @@ module SpreeSimpleSales
   end
 end
 # From NEW
-# From NEW 2
